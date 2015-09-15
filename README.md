@@ -1,4 +1,4 @@
-nodeschool barcelona :school::bear:
+NodeSchool Barcelona :school:
 ======
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/barcelona.png)](https://gitter.im/nodeschool/barcelona)
