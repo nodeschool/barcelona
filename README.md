@@ -1,4 +1,3 @@
-Berlin page
-====================
+# NodeSchool Barcelona
 
-Github page
+just a GitHub hosted website.
