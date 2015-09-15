@@ -1,14 +1,14 @@
 {
-  "name": "nodeschool-berlin",
+  "name": "nodeschool-barcelona",
   "version": "1.0.0",
-  "description": "NodeSchool Berlin",
+  "description": "NodeSchool barcelona",
   "main": "budget.js",
   "scripts": {
-    "test": "node budget.js"
+    "budget": "node budget.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodeschool/berlin"
+    "url": "https://github.com/nodeschool/barcelona"
   },
   "keywords": [
     "nodeschool"
@@ -16,7 +16,7 @@
   "author": "Finn Pauls",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodeschool/berlin/issues"
+    "url": "https://github.com/nodeschool/barcelona/issues"
   },
-  "homepage": "https://github.com/nodeschool/berlin"
+  "homepage": "https://github.com/nodeschool/barcelona"
 }
