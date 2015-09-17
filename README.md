@@ -13,6 +13,17 @@ Note: Everyone involved with NodeSchool Barcelona has to follow our [Code of Con
 * The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/barcelona/tree/gh-pages).
 * [NodeSchool open budget](https://travis-ci.org/nodeschool/barcelona/branches)
 
-## Other Learning Groups/Events in barcelona
+# Become a Mentor
+If you are an experienced node.js developer, become a mentor and help others learn node!
+
+Requirements:
+- Some node.js experience
+- Git experience
+- Software engineering skills
+- Time to attend on the NodeSchool workshops
+
+ [Submit a PR with your name here](https://github.com/nodeschool/barcelona/blob/master/mentors.md)
+
+# Other Learning Groups/Events in Barcelona
 
 - [BarcelonaJS](http://www.barcelonajs.org/) JavaScript Events
