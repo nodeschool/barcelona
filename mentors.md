@@ -9,3 +9,4 @@ This is a list of mentors.
 
 * Patrick Heneise, @patrickheneise
 * Carles Capell, @carleskapy
+* Ivan Fraixedes, @ifraixedes
