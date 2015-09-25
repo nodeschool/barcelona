@@ -1,4 +1,4 @@
-NodeSchool Barcelona :school:
+NodeSchool Barcelona :sunny: :school: :city_sunrise:
 ======
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/barcelona.png)](https://gitter.im/nodeschool/barcelona)
