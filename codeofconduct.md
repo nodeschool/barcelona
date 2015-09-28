@@ -6,7 +6,7 @@ We are expecting coorporation from all participants to help ensuring a safe envi
 
 *tl:dr: Do not harass people. Be awesome to each other.*
 
-## Need Help? Contact Finn
+## Need Help? Contact Patrick
 
 Contact | Patrick Heneise
 --- | ---
