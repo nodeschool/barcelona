@@ -1,6 +1,8 @@
 NodeSchool Barcelona :sunny: :school: :city_sunrise:
 ======
 
+[![Join the chat at https://gitter.im/nodeschool/barcelona](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/barcelona?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter chat](https://badges.gitter.im/nodeschool/barcelona.png)](https://gitter.im/nodeschool/barcelona)
 
 Subscribe to the [BarcelonaJS newsletter](http://eepurl.com/3ifev) to be notified about future events.
