@@ -845,9 +845,12 @@ a:hover {
   header.site-header {
     padding: 1.5em
   }
-  .sponsored {
-    margin-top: 3em;
+  .special-thanks {
+    margin-top: 2em;
     text-align: center !important
+  }
+  .venues {
+    margin-top:2em;
   }
   footer {
     text-align: center
@@ -859,18 +862,30 @@ ul {
 }
 footer {
   background-color: #333;
-  color: #fff
+  color: #fff;
 }
 footer a {
   color: #FFE543
+}
+footer ul {
+    list-style-type: none;
 }
 footer h3 {
   margin: 0;
   padding: 0
 }
-footer .sponsored {
+footer .special-thanks {
   text-align: right
 }
-.skyscanner-logo {
-  width: 200px
+footer .venues {
+  text-align: center
+}
+.venue-logo {
+    width:115px;
+}
+.thanks-title {
+    font-size:0.8em;
+}
+.credits {
+    margin-bottom:1em;
 }
